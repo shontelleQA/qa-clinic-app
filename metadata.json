@@ -1,0 +1,5 @@
+{
+  "name": "qa-clinic-app",
+  "description": "An interactive QA practice app built for Test Like A Girl. Diagnose bugs, investigate clues, write analysis, and get AI mentor feedback.\n",
+  "requestFramePermissions": []
+}
