@@ -1,10 +1,5 @@
 # QA Clinic  
 *A calm, interactive learning space for hands-on Software Quality Assurance practice.*
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/qa-clinic/main/qa-clinic-logo.png" 
-       width="150" 
-       alt="QA Clinic Logo" />
-</p>
 
 QA Clinic is an interactive web app built for **Test Like A Girl (TLAG)**.  
 Learners diagnose bugs, explore clues, write analysis, and receive AI mentor-style feedback.  
